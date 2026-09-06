@@ -73,7 +73,6 @@ Application-level connectivity to the DMZ servers was also verified using FTP an
 - Wireshark (traffic analysis & validation)
 
 ## Author
-**Youssuf Ahmed Mohamed Hafez**
-HCIA-Security Candidate
+**Youssuf Ahmed Mohamed Hafez** | HCIA-Security
 
-- LinkedIn: [Youssuf Ahmed](https://www.linkedin.com/in/yussufhafezofficial)
+* **LinkedIn:** [Youssuf Ahmed](https://www.linkedin.com/in/yussufhafezofficial)
