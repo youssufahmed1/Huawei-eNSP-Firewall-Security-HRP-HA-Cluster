@@ -76,5 +76,4 @@ Application-level connectivity to the DMZ servers was also verified using FTP an
 **Youssuf Ahmed Mohamed Hafez**
 HCIA-Security Candidate
 
-- GitHub: [@youssufahmed1](https://github.com/youssufahmed1)
 - LinkedIn: [Youssuf Ahmed](https://www.linkedin.com/in/yussufhafezofficial)
