@@ -1,4 +1,4 @@
-# Huawei eNSP Firewall Security – HRP HA Cluster
+# Huawei eNSP Firewall Security – HRP High Availability Cluster
 
 ## Overview
 This project is a final capstone simulation for the **Huawei HCIA-Security** certification, built entirely using **eNSP (Enterprise Network Simulation Platform)**. It demonstrates the design and implementation of a secure, multi-zone enterprise network protected by a **redundant firewall cluster** running **HRP (Huawei Redundancy Protocol)** in Active/Standby (Hot Standby) mode.
@@ -73,4 +73,8 @@ Application-level connectivity to the DMZ servers was also verified using FTP an
 - Wireshark (traffic analysis & validation)
 
 ## Author
-Final project — Huawei HCIA-Security certification course.
+**Youssuf Ahmed Mohamed Hafez**
+HCIA-Security Candidate
+
+- GitHub: [@youssufahmed1](https://github.com/youssufahmed1)
+- LinkedIn: [Youssuf Ahmed](https://www.linkedin.com/in/yussufhafezofficial)
